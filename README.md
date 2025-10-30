@@ -2,6 +2,12 @@
 
 An intelligent web application that transforms product videos into professional product photography using Google's Gemini AI. Simply upload a video of your product, and the AI will automatically extract, segment, and enhance the best shots with professional studio lighting.
 
+## 🎬 Video Demo
+
+Watch the demo on YouTube: [AI Product Shot Extractor Demo](https://www.youtube.com/watch?v=mAQP1Cca4Vs)
+
+[![Watch the Demo](https://img.youtube.com/vi/mAQP1Cca4Vs/0.jpg)](https://www.youtube.com/watch?v=mAQP1Cca4Vs)
+
 ## Features
 
 - **Smart Frame Selection**: Extracts 30 frames from your video and intelligently selects the 5 best shots
